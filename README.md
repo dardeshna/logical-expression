@@ -1,5 +1,4 @@
 #logical-expression
--
 ##Introduction
 
 This program specifies an interface for a logical expression and implements it in the LogicalExpression class.  The logical expression is constructed from a string, and is converted to a list of tokens.  The expression can be checked for logical properties such as validity, satisfiability, contingency, as well as logical relations with other expressions such as entailment and equivalence.
